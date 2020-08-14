@@ -1,3 +1,4 @@
 *.tmp
-!t.tmp
-/*.tmp
+
+!.t.tmp
+1?.html
